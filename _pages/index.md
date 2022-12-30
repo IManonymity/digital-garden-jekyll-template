@@ -1,16 +1,9 @@
 ---
 layout: page
 title: Home
-id: home
 permalink: /
 ---
 
 # Welcome! 🌱
 
-This is my person website!
-
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
+{% for tag in site.tags %} <h3>{{ tag[0] }}</h3> <ul> {% for post in tag[1] %} <li><a href="{{ post.url }}">{{ post.title }}</a> </li> {% endfor %} </ul> {% endfor %}
