@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "使用jekyll发布文章"
 categories: tools jekyll
 date: 2022-12-30

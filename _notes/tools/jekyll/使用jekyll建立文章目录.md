@@ -1,7 +1,5 @@
 ---
-layout: post
-title: "使用jekyll建立文章目录"
-categories: tools jekyll
+title: 使用jekyll建立文章目录
 date: 2022-12-30
 tags: jekyll
 ---
