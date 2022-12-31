@@ -1,11 +1,16 @@
 ---
-title: "使用jekyll发布文章"
-categories: tools jekyll
+title: 1. 使用jekyll发布文章
 date: 2022-12-30
 tags: jekyll
-date created: 星期五, 十二月 30日 2022, 7:31:37 晚上
-date modified: 星期六, 十二月 31日 2022, 5:30:55 下午
 ---
+
+## jekyll系列
+- [[使用jekyll之发布文章]]
+- [[使用jekyll建立文章目录]]
+- [[使用jekyll建立网站]]
+- [[使用jekyll添加Latex支持]]
+
+<hr>
 
 ## 步骤
 - 新建`_posts`文件夹

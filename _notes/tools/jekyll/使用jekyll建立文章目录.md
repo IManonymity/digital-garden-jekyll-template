@@ -1,9 +1,7 @@
 ---
-title: 使用jekyll建立文章目录
+title: 2.使用jekyll建立文章目录
 date: 2022-12-30
 tags: jekyll
-date created: 星期五, 十二月 30日 2022, 8:54:40 晚上
-date modified: 星期六, 十二月 31日 2022, 5:30:55 下午
 ---
 
 ## 步骤

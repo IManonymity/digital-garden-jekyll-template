@@ -1,9 +1,15 @@
 ---
-title: overview of compiler
-date: 2022-12-31, 17:33:33
+title: 1.overview of compiler
+date: 2022-12-31
 tags: compiler
 book: Engineering a compiler
 ---
+
+## 《Engineering a compiler》系列
+- [[chapt1   综述]]
+- [[chapt2  有限自动机]]
+- [[chapt2  正则表达式]]
+<hr>
 
 [page-27](bookxnotepro://opennote/?nb={b7f4e0c6-1a2e-4ef0-9121-1eeb029d1870}&book=21548d9f83b3ce5d353a8baccff171a2&page=26&x=337&y=232&id=12&uuid=a6b7dc0d58d5aa8dd1c84bacfe2a7234)
 
