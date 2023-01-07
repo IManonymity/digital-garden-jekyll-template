@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "cd6782bfee6e928f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea167395720e5aa6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b7b02d852fcf80f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/tools/vscode/在vscode中配置C++开发环境.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d939f73f78d77d8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cbe03729cadf68b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "442b77448985d3c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d98d928c7f79e50",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec7ca868b3259c31",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "db4f226e1f01713e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f7d706ad557c427",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e1b545d2fe82008",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_notes/tools/vscode/在vscode中配置C++开发环境.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7f7d2ef0bfca5ffc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_notes/tools/vscode/在vscode中配置C++开发环境.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0edf09644b8a4d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "011185b2156d26f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_notes/tools/vscode/在vscode中配置C++开发环境.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "7b7b02d852fcf80f",
+  "lastOpenFiles": [
+    "_notes/CS/cpp/TinySTLRead/vector阅读.md",
+    "_notes/tools/vscode/在vscode中配置C++开发环境.md",
+    "_notes/CS/cpp/TinySTLRead/allocator阅读.md",
+    "_notes/CS/cpp/TinySTLRead/TinySTL介绍.md",
+    "_notes/tools/flex/flex介绍.md",
+    "_notes/CS/algorithms/分治算法.md",
+    "assets/images/flex工作流程.png",
+    "_notes/CS/algorithms/回溯算法.md",
+    "_notes/tools/docker/在vscode中配置远程连接docker.md",
+    "assets/images/回溯递归实现.png"
+  ]
+}
