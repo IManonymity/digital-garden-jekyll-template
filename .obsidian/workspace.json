@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/tools/vscode/在vscode中配置C++开发环境.md",
+                "file": "_notes/tools/flex/flex介绍.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/tools/vscode/在vscode中配置C++开发环境.md",
+                "file": "_notes/tools/flex/flex介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/tools/vscode/在vscode中配置C++开发环境.md",
+                "file": "_notes/tools/flex/flex介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/tools/vscode/在vscode中配置C++开发环境.md"
+                "file": "_notes/tools/flex/flex介绍.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -148,15 +149,15 @@
   },
   "active": "7b7b02d852fcf80f",
   "lastOpenFiles": [
-    "_notes/CS/cpp/TinySTLRead/vector阅读.md",
     "_notes/tools/vscode/在vscode中配置C++开发环境.md",
+    "_notes/tools/git/git连接远程仓库.md",
+    "_notes/tools/未命名.md",
+    "_notes/CS/cpp/TinySTLRead/vector阅读.md",
     "_notes/CS/cpp/TinySTLRead/allocator阅读.md",
     "_notes/CS/cpp/TinySTLRead/TinySTL介绍.md",
     "_notes/tools/flex/flex介绍.md",
     "_notes/CS/algorithms/分治算法.md",
     "assets/images/flex工作流程.png",
-    "_notes/CS/algorithms/回溯算法.md",
-    "_notes/tools/docker/在vscode中配置远程连接docker.md",
-    "assets/images/回溯递归实现.png"
+    "_notes/CS/algorithms/回溯算法.md"
   ]
 }

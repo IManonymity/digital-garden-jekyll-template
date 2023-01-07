@@ -1,3 +1,6 @@
+---
+---
+
 flex (Fast LEXical analyzer generator)是用于快速生成词法扫描器的工具，用户只需要填写flex文件就可以生成想要的扫描器。
 
 ### flex工作流程
@@ -32,7 +35,7 @@ user code
 	- user code：自定义处理逻辑
 - definition：
 	- /* content \*/：会原封不动地复制到`lex.yy.c`中
-	- 未缩进的%{ content %}：%{%}会被去掉，content被复制到`lex.yy.c`中
+	- 未缩进的%{ content %}：%{ %}会被去掉，content被复制到`lex.yy.c`中
 	- 缩进的内容：缩进的内容会原封不动地复制到`lex.yy.c`中
 - rules：
 	- action中可以使用return语句，作为yylex的返回值
