@@ -9,6 +9,7 @@ book: Engineering a compiler
 - [[chapt1   综述]]
 - [[chapt2  有限自动机]]
 - [[chapt2  正则表达式]]
+- [[chapt2 从RE构造FA]]
 <hr>
 
 [page-27](bookxnotepro://opennote/?nb={b7f4e0c6-1a2e-4ef0-9121-1eeb029d1870}&book=21548d9f83b3ce5d353a8baccff171a2&page=26&x=337&y=232&id=12&uuid=a6b7dc0d58d5aa8dd1c84bacfe2a7234)
